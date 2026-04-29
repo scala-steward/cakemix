@@ -27,7 +27,7 @@ lazy val commonSettings = Seq(
   )
 )
 
-lazy val typesafeConfig = "com.typesafe" % "config" % "1.4.6" % Provided
+lazy val typesafeConfig = "com.typesafe" % "config" % "1.4.7" % Provided
 
 lazy val akkaActor = "com.typesafe.akka" %% "akka-actor" % "2.8.0" % Provided
 
